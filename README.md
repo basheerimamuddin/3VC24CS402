@@ -1,3 +1,3 @@
 # 3VC24CS402
-MY FIRST
-2
+This my first reoositry
+Author - basheerimamuddin
